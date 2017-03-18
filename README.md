@@ -20,6 +20,6 @@ branch
 NB: All features must have respective request and or unit tests
 
 ### to add
-- [] location of staged and prod version
-- [] how continous integration has been setup
-- [] detailed how to contribute
+- [ ] location of staged and prod version
+- [ ] how continous integration has been setup
+- [ ] detailed how to contribute
